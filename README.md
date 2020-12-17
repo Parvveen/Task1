@@ -3,4 +3,4 @@ Task1
 
 Hello Universe
 I'm new to GitHub
-I satrted understanding GitHub slowly
+I started understanding GitHub slowly
